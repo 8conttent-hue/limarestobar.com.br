@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o LIMARESTOBAR"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Com apenas 33 anos, o Chef Marco Espinoza traz sua expertise do renomado Taypá Sabores Del Peru para o Lima RestoBar. Sua paixão pela culinária e dedicação aos detalhes são evidentes em cada prato preparado."
+  },
+  "content": "O Lima RestoBar iniciou sua jornada para se tornar um dos principais destinos gastronômicos do Rio de Janeiro. Situado na charmosa Rua Visconde de Caravelas, nosso restaurante é mais do que um lugar para comer; é um espaço onde histórias são contadas através da comida e boa companhia.",
+  "mission": "Oferecer uma experiência culinária memorável que une sabores autênticos e a autenticidade do convívio, sempre com um toque de inovação.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

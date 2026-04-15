@@ -1,0 +1,53 @@
+{
+  "name": "LIMARESTOBAR",
+  "slug": "limarestobar.com.br",
+  "description": "O Restaurante O Chef Marco Espinoza, 33 anos, ainda vai dar muito o que falar. No comando de um dos mais conceituados restaurantes de Brasília, o contemporâneo Taypá Sabores Del Peru, o peruano desembarcou recentemente no Rio de Janeiro para comandar o Lima RestoBar, mix de restaurante e bar, na charmosa Rua Visconde de Caravelas, em Botafogo. O restaurante ocupa uma casa de dois andares com 120m² e decoração no estilo contemporâneo. Materiais antigos como a madeira de demolição e o ferro se destacam na decoração do local. Duas grandes luminárias chamam a atenção logo na entrada. O projeto foi assinado pela arquiteta Teresa Guerreiro, cuja inspiração veio da própria apresentação dos pratos do Lima: jovem como o Chef e moderna como o proposta.",
+  "url": "https://limarestobar.com.br",
+  "niche": "Gastronomia",
+  "keywords": "O Restaurante O Chef Marco Espinoza 33 anos ainda vai dar muito",
+  "email": "contato@limarestobar.com.br",
+  "palette": "forest",
+  "colors": {
+    "primary": "#16a34a",
+    "accent": "#14532d",
+    "dark": "#052e16"
+  },
+  "headerContrast": "light",
+  "font": "montserrat",
+  "fontFamily": "'Montserrat', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-G",
+    "hero": "Hero-D",
+    "features": "Features-F",
+    "about": "About-A",
+    "posts": "Posts-G",
+    "footer": "Footer-J",
+    "sobre": "Sobre-G",
+    "contato": "Contato-I"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

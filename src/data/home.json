@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "LIMARESTOBAR — Bem-vindo ao Lima RestoBar",
+    "description": "Uma experiência gastronômica única no coração de Botafogo."
+  },
+  "hero": {
+    "title": "Bem-vindo ao Lima RestoBar",
+    "subtitle": "Uma experiência gastronômica única no coração de Botafogo.",
+    "btnText": "Reserve sua mesa",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Destaques do nosso menu",
+    "items": [
+      {
+        "icon": "🍽️",
+        "title": "Culinária Contemporânea",
+        "desc": "Descubra pratos que trazem uma fusão de sabores tradicionais peruanos com toques brasileiros."
+      },
+      {
+        "icon": "🍹",
+        "title": "Bar Exclusivo",
+        "desc": "Explore nossa carta de drinks criativos, preparados com ingredientes frescos e de alta qualidade."
+      },
+      {
+        "icon": "🪑",
+        "title": "Ambiente Aconchegante",
+        "desc": "Desfrute de um espaço moderno e acolhedor, ideal para encontros com amigos e jantares especiais."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre o Chef Marco Espinoza",
+    "desc": "Com apenas 33 anos, o Chef Marco Espinoza traz sua expertise do renomado Taypá Sabores Del Peru para o Lima RestoBar. Sua paixão pela culinária e dedicação aos detalhes são evidentes em cada prato preparado.",
+    "stats": [
+      {
+        "value": "120m²",
+        "label": "Área do restaurante"
+      },
+      {
+        "value": "2 andares",
+        "label": "Espaço acolhedor"
+      },
+      {
+        "value": "1 Chef",
+        "label": "Marco Espinoza"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}
